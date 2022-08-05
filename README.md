@@ -1,7 +1,5 @@
 # Changeling001
 
-Link to deployed application:  https://jmdg1023.github.io/Changeling001/
-
 
 
 ## Acceptance Criteria
@@ -13,13 +11,15 @@ Link to deployed application:  https://jmdg1023.github.io/Changeling001/
 * WHEN I view the heading attributes, THEN they fall in sequential order
 * WHEN I view the title element, THEN I find a concise, descriptive title
 
-* It's done when the user moves the mouse over the text "Show Resources," and the resource links display.
 
+Link to deployed application:  https://jmdg1023.github.io/Changeling001/
+
+---
+
+## My Motivation
+
+* I did this challenge to refresh things I have learned in the past week. It is not perfect but I will strive to always beat my past challenges with every new challenges.
 
 
 ---
-
-
-
----
-© 2022
+© Horiseon 2022
